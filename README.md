@@ -2,7 +2,7 @@
 
 ModernUIs is available via the [Creator Companion](https://vcc.docs.vrchat.com/) as a VPM package!
 
-### [VPM / Creator Companion Listing](https://vpm.drblackrat.xyz)
+### [VPM / Creator Companion Listing](https://vpm.rozenix.xyz)
 
 For Standalone Unity I also provide a Unity Package with every release.
 
@@ -10,7 +10,7 @@ For Standalone Unity I also provide a Unity Package with every release.
 
 If you have questions / need help feel free to join the support Discord!
 
-#### [DrBlackRat Creations Discord](https://discord.drblackrat.xyz)
+#### [Rozenix Creations Discord](https://discord.rozenix.xyz)
 
 # What is the ModernUIs VRCLinking Integration?
 
@@ -34,10 +34,10 @@ You can add the VRCLinking To Whitelist Bridge Prefab to your scene under:
 
 # Credits
 
-#### This Asset was made by DrBlackRat:
+#### This Asset was made by Rozenix:
 
-https://drblackrat.xyz
+https://rozenix.xyz
 
 #### If you like this, feel free to support me on Ko-fi!
 
-https://ko-fi.com/drblackrat
+https://ko-fi.com/rozenix
