@@ -1,7 +1,7 @@
 {
   "name": "xyz.drblackrat.vrc.modernuis.integrations.vrclinking",
   "displayName": "ModernUIs Integration VRCLinking",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Integration to allow using VRCLinking for ModernUIs Whitelist / Permission system.",
   "dependencies": {},
   "gitDependencies": {},
